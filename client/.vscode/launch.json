@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ClientApplication<client>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.keepalive.client.ClientApplication",
+            "projectName": "client",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
